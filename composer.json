@@ -1,0 +1,17 @@
+{
+    "name": "coderoacademy/simple-cli-log",
+    "description": "Um log simples para tornar seu CLI mais bonito",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Coderoacademy\\SimpleCliLog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Deyvid Duarte"
+        }
+    ],
+    "require": {}
+}
